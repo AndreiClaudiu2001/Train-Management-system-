@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRch97YL68JGAAuCCHEU7DCwcta9cpiFOfFkORTR3nF5j02R0mI9tJssdTmim3CQmv3qtjGwmHeH9aettzThdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Clase_Tren\\Clase_Tren.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

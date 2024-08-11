@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\bin\Debug\netstandard2.0\Administrare_Fisier.deps.json
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\bin\Debug\netstandard2.0\Administrare_Fisier.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\bin\Debug\netstandard2.0\Administrare_Fisier.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\bin\Debug\netstandard2.0\Clase_Tren.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\bin\Debug\netstandard2.0\Clase_Tren.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administ.0F426B95.Up2Date
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Administrare_Fisier\obj\Debug\netstandard2.0\Administrare_Fisier.pdb

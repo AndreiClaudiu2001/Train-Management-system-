@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Gestionare_Tren\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FBF125-12AE-4C8B-AB64-E1B1AE323555}|..\\InterfataUtilizator_WindowsForm\\InterfataUtilizator_WindowsForm.csproj|C:\\Users\\Administrator\\Downloads\\Proiect PIU\\interfatautilizator_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FBF125-12AE-4C8B-AB64-E1B1AE323555}|..\\InterfataUtilizator_WindowsForm\\InterfataUtilizator_WindowsForm.csproj|c:\\users\\administrator\\downloads\\proiect piu\\interfatautilizator_windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E87CF83-EB8E-4B12-ACD5-B1C6D08766D5}|..\\Administrare_Fisier\\Administrare_Fisier.csproj|c:\\users\\administrator\\downloads\\proiect piu\\administrare_fisier\\date_fisier_tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB12078-571F-48B6-BA86-E2280C923B1F}|..\\Clase_Tren\\Clase_Tren.csproj|c:\\users\\administrator\\downloads\\proiect piu\\clase_tren\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\InterfataUtilizator_WindowsForm\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\InterfataUtilizator_WindowsForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:01:08.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date_Fisier_Tren.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Administrare_Fisier\\Date_Fisier_Tren.cs",
+              "RelativeDocumentMoniker": "..\\Administrare_Fisier\\Date_Fisier_Tren.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Administrare_Fisier\\Date_Fisier_Tren.cs",
+              "RelativeToolTip": "..\\Administrare_Fisier\\Date_Fisier_Tren.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:01:08.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Clase_Tren\\Train.cs",
+              "RelativeDocumentMoniker": "..\\Clase_Tren\\Train.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\Clase_Tren\\Train.cs",
+              "RelativeToolTip": "..\\Clase_Tren\\Train.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:01:08.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Proiect PIU\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "RelativeToolTip": "..\\InterfataUtilizator_WindowsForm\\Form1.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:01:08.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

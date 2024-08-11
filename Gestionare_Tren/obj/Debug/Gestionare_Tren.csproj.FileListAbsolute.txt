@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Gestionare_Tren.exe.config
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Gestionare_Tren.exe
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Gestionare_Tren.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Administrare_Fisier.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Clase_Tren.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Administrare_Fisier.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\bin\Debug\Clase_Tren.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\obj\Debug\Gestionare_Tren.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\obj\Debug\Gestionare_Tren.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\obj\Debug\Gestiona.8292BA11.Up2Date
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\obj\Debug\Gestionare_Tren.exe
+C:\Users\Administrator\Downloads\Proiect PIU\Gestionare_Tren\obj\Debug\Gestionare_Tren.pdb

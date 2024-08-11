@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\bin\Debug\netstandard2.0\Clase_Tren.deps.json
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\bin\Debug\netstandard2.0\Clase_Tren.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\bin\Debug\netstandard2.0\Clase_Tren.pdb
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.dll
+C:\Users\Administrator\Downloads\Proiect PIU\Clase_Tren\obj\Debug\netstandard2.0\Clase_Tren.pdb

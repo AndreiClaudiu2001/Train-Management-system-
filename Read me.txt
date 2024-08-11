@@ -1,0 +1,2 @@
+Rularea aplicatiei se face din folderul Gestionare_Tren, prin accesarea sln-ului.
+Nu am realizat documentatia proiectului.
